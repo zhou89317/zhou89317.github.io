@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FintechLance</title>
-    <link>http://zhou89317.github.io/</link>
-    <description>Recent content on FintechLance</description>
+    <title>Posts on FintechLance</title>
+    <link>http://zhou89317.github.io/post/</link>
+    <description>Recent content in Posts on FintechLance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Feb 2023 21:57:47 +0800</lastBuildDate><atom:link href="http://zhou89317.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 21:57:47 +0800</lastBuildDate><atom:link href="http://zhou89317.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>http://zhou89317.github.io/post/first/</link>
